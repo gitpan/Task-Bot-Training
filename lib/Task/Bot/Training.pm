@@ -1,5 +1,7 @@
 package Task::Bot::Training;
-$Task::Bot::Training::VERSION = '0.01';
+BEGIN {
+  $Task::Bot::Training::VERSION = '0.02';
+}
 
 use 5.010;
 
